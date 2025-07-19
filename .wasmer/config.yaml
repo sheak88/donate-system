@@ -1,0 +1,9 @@
+package:
+  name: donate-system
+  version: "0.1.0"
+
+build:
+  base: php
+
+run:
+  command: php -S 0.0.0.0:8000 -t .
